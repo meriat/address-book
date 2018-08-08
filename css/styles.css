@@ -1,0 +1,9 @@
+#input{
+  display: none;
+}
+
+#test {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
